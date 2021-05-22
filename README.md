@@ -4,7 +4,7 @@
 I'm a sophomore studying Computer Science at <a href="https://www.coep.org.in/"> College of Engineering, Pune</a>. 
 </h3>
 
-
+<!--
 ### Languages and Tools:
 <p>
 
@@ -19,7 +19,7 @@ I'm a sophomore studying Computer Science at <a href="https://www.coep.org.in/">
 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/4a90e2/c-plus-plus-logo.png" alt="cplusplus" width="50" height="50"/> </a><a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="50" height="50"/> </a>
 <br />
-
+-->
 [![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikmandhan&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikmandhan&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
