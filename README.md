@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello, I'm Kartik Mandhan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-I'm a Pre-Final Year student studying Computer Science at studying Computer Science at <a href="https://www.coep.org.in/"> College of Engineering, Pune</a>. 
+I'm a Final Year student studying Computer Science at studying Computer Science at <a href="https://www.coep.org.in/"> College of Engineering, Pune</a>. 
 </h3>
 
 <!--
@@ -20,7 +20,7 @@ I'm a Pre-Final Year student studying Computer Science at studying Computer Scie
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/4a90e2/c-plus-plus-logo.png" alt="cplusplus" width="50" height="50"/> </a><a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="50" height="50"/> </a>
 <br />
 -->
-[![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikmandhan&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikmandhan&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikmandhan&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  </p>
