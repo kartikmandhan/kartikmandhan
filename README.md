@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello, I'm Kartik Mandhan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-I'm a Final Year student studying Computer Science at studying Computer Science at <a href="https://www.coep.org.in/"> College of Engineering, Pune</a>. 
+I'm a Software Engineer working at Arcesium India Pvt. Ltd.
 </h3>
 
 <!--
